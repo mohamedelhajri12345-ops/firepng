@@ -1,12 +1,12 @@
 {
-  "name": "Fire PNG",
-  "short_name": "Fire PNG",
+  "name": "Fireprint — Print on demand studio",
+  "short_name": "Fireprint",
   "description": "إزالة الخلفية وتصدير PNG شفافة بدقة الطباعة، مع محرر أشكال",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0a0b10",
-  "theme_color": "#0a0b10",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "dir": "rtl",
   "lang": "ar",
   "icons": [
