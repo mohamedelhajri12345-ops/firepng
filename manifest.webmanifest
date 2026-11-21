@@ -1,6 +1,6 @@
 {
-  "name": "Fireprint — Print on demand studio",
-  "short_name": "Fireprint",
+  "name": "FIREPNG — Print on demand studio",
+  "short_name": "FIREPNG",
   "description": "إزالة الخلفية وتصدير PNG شفافة بدقة الطباعة، مع محرر أشكال",
   "start_url": "./",
   "scope": "./",
