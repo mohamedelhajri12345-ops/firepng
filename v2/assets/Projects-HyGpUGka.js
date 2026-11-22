@@ -1,0 +1,1 @@
+import{a as e,t}from"./framework-DVR1K1na.js";var n=t();function r(){return(0,n.jsx)(e,{to:`/app/designs`,replace:!0})}export{r as default};
