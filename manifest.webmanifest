@@ -1,12 +1,12 @@
 {
-  "name": "FIREPNG — Print on demand studio",
+  "name": "FIREPNG - Print-ready design studio",
   "short_name": "FIREPNG",
   "description": "إزالة الخلفية وتصدير PNG شفافة بدقة الطباعة، مع محرر أشكال",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#f7f8fb",
+  "theme_color": "#2563eb",
   "dir": "rtl",
   "lang": "ar",
   "icons": [
